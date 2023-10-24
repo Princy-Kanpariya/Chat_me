@@ -24,7 +24,7 @@ Before you can run ChatMe, make sure you have the following dependencies install
 1. Clone the repository (if you haven't already):
 
    ```bash
-   git clone https://github.com/yourusername/chatme.git
+   https://github.com/Princy-Kanpariya/Chat_me.git
    ```
 
 2. Change into the project directory:
